@@ -1,0 +1,62 @@
+.titulo{
+  display: flex;
+}
+.escudo {
+  width: 50px;
+}
+.chapeu{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.chapeuimg{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.balaoimg{
+  width: 30%;
+  position: absolute;
+  z-index: 2;
+  margin-left: 55%;
+  margin-top: -5%;
+  float: right;
+}
+.texto{
+  position: absolute;
+  z-index: 3;
+  margin-left: 62%;
+  margin-top: 3%;
+}
+.body{
+  background-image:url('../imgs/fundo.png'); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.resul{
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+.divresul{
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+.tt{
+  background-color: rgba(0, 0, 0, 0.74);
+  padding-left: 2%;
+  padding-right: 2%;
+  border-radius: 0.5em;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.ttimg{
+  width: 50px;
+  margin-left: auto;
+}
+.valor{
+  margin-left: 90%;
+  
+}

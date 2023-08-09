@@ -1,0 +1,202 @@
+.nav {
+  background-color: rgb(209, 209, 209);
+}
+.btnTema {
+  background-color: black;
+  color: white;
+  position: absolute;
+  margin-left: 90%;
+  margin-top: 3%;
+  width: 6%;
+}
+
+.logo {
+  width: 22%;
+  margin-left: auto;
+  display: flex;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.pa{
+  margin-left: 6%;
+}
+
+.logoa {
+  width: 100%;
+}
+.bv{
+  width: 25%;
+  margin-left: 10%;
+}
+.pbv{
+  margin-left: 8%;
+  margin-right: 10%;
+}
+.video{
+ margin-left: 5%;
+ margin-right: 5%;
+ 
+}
+.vd{
+  border-radius: 1em;
+}
+
+.container {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: white;
+  border-radius: 1em;
+}
+.tp{
+  text-align: center;
+}
+
+.p {
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+.po{
+  margin-bottom: 0px;
+}
+
+.sec1 {
+  display: flex;
+}
+
+.conte {
+  width: 47%;
+  display: flex;
+  margin-left: auto;
+  margin-right: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.contd {
+  width: 47%;
+  float: right;
+  display: flex;
+  margin-left: auto;
+  margin-right: 40px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.ct{
+  background-color: rgba(0, 0, 0, 0.703);
+  width: max-content;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin:auto;
+  border-radius: 5px;
+}
+.cp{
+  margin-top: 5px;
+  background-color: rgba(0, 0, 0, 0.503);
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    text-align: center;
+    text-indent: 0em;
+}
+p {
+  text-align: justify;
+  margin-bottom: 0px;
+  text-indent: 1.5em;
+}
+
+p+p {
+  text-indent: 1.5em;
+  margin-top: 0px;
+}
+.jk{
+  width: 100%;
+}
+.autora{
+  display: flex;
+}
+.jk{
+    border-radius: 200px;
+}
+.c1{
+  margin-left: 5%;
+}
+.d-block{
+  border-radius: 10px;
+}
+.origem{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.casas{
+  margin-right: 7%;
+  margin-left: 7%;
+}
+.pc{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 0px;
+}
+.casal{
+  display: flex;
+}
+.casat{
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 0.5em;
+}
+.esc{
+  width: 13%;
+}
+.secchapeu{
+  display: flex;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.textchapeu{
+  width: 70%;
+  margin-top: 5%;
+}
+.chapeu{
+  width: 30%;
+}
+.chapeuimg{
+  width: 100%;
+  display: flex;
+  margin-left: auto;
+}
+.formchapeu{
+  display: flex;
+}
+.nome{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.btnTemaRed{
+    position: absolute;
+    margin-left: 89%;
+    margin-top: 6%;
+    width: 1%;
+}
+.btnTemaBlue{
+  position: absolute;
+  margin-left: 91%;
+  margin-top: 6%;
+  width: 1%;
+}
+.btnTemaGreen{
+  position: absolute;
+  margin-left: 93%;
+  margin-top: 6%;
+  width: 1%;
+}
+.btnTemaYellow{
+  position: absolute;
+  margin-left: 95%;
+  margin-top: 6%;
+  width: 1%;
+}
